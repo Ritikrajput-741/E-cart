@@ -1,4 +1,4 @@
-import ProductCard from "@/components/ProductCard";
+import ProductCard from "@/components/Productcard";
 import Sidebar from "@/components/Sidebar";
 import {
   Select,
